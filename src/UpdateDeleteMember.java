@@ -59,7 +59,7 @@ public class UpdateDeleteMember extends javax.swing.JFrame {
         jTextField11 = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setLocation(new java.awt.Point(175, 100));
+        setLocation(new java.awt.Point(350, 200));
         setUndecorated(true);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
